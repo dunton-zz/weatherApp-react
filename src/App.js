@@ -7,10 +7,9 @@ import { Navbar, NavItem, Nav, Grid, Row, Col } from "react-bootstrap";
 const PLACES = [
   { name: "Palo Alto", zip: "94303"},
   { name: "San Jose", zip: "94088"},
-  { name: "Santa Cruz", zip: "95062"},
   { name: "Honolulu", zip: "96809"},
-  { name: "Coeur d' Alene", zip: "83815"},
-  { name: "New York (UWS)", zip: "10024"},
+  { name: "Hayden", zip: "83814"},
+  { name: "New York (MAN)", zip: "10006"},
   { name: "Boise", zip: "83706"},
   { name: "Denver", zip: "80202"},
 ]
